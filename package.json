@@ -1,0 +1,14 @@
+{
+  "name": "actividad-heroku",
+  "version": "1.0.0",
+  "description": "Aplicación simple Node.js para actividad de ambientes efímeros",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alba",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
